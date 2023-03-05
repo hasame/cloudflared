@@ -1,2 +1,2 @@
-FROM cloudflare/cloudflare:latest
+FROM cloudflare/cloudflared:latest
 MAINTAINER Q
